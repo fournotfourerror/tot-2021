@@ -1,0 +1,21 @@
+/* Element selector */
+body{
+    background: red;
+}
+
+/* Id selector */
+#header{
+    background: #ddd;
+}
+
+/* Class selector */
+.github{
+    color: #000;
+    text-decoration: none;
+    background: blue;
+}
+
+/* Universal selector */
+*{
+    font-family: Helvetica;
+}
