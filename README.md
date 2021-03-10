@@ -117,7 +117,8 @@
         * Boolean (true => 1, false => 0 ) : Result will be a number
         * Null (0) ' ' (0)
         * undefined : (NaN for all formats except string)
-    * Arrays and its methods
+        
+   * Arrays and its methods
         * Find()
         * Slice()
         * Filter()
@@ -147,7 +148,7 @@
         }
 ```
 
-        * Arraow functions
+   * Arraow functions
 
 ```javascript
             var division=(x,y)=>{
@@ -156,7 +157,7 @@
 
 ```
 
-        * Higher-order functions
+   * Higher-order functions
             * `A function which accepts another function as an argument.`
                 * Map()
 
@@ -167,8 +168,8 @@
                     // i is for the elements && index is for the popsitions
 ```
 
-                * Filter()
-                * setTimeOut()
+   * Filter()
+   * setTimeOut()
 
 ```javascript
                 setTimeout(()=>{
@@ -188,7 +189,7 @@
                 // Hanuman is working as a Trainer
 ```
 
-        * Destructuring
+   * Destructuring
             * We can define multiple variables at once.
             * Can assign multiple values extracting from an array to different variables.
             * Object destructuring
@@ -203,9 +204,9 @@
 ```
 
 
-        * Rest && Spread (`...`)
-            * Rest is for assigning rest of the elements from an array
-            * Spread is for apreading the elements in the array.
+   * Rest && Spread (`...`)
+         * Rest is for assigning rest of the elements from an array
+         * Spread is for apreading the elements in the array.
 
 
 * ReactJs &
