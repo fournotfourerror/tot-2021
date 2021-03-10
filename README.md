@@ -158,7 +158,8 @@
 ```
 
    * Higher-order functions
-            * `A function which accepts another function as an argument.`
+   
+        * A function which accepts another function as an argument.
                 * Map()
 
 ```javascript
@@ -178,8 +179,9 @@
                 // 1st argument is a function && 2nd argument is the timing delay
 ```
 
-            * Template literals
-                * We can concatinate the number of strings together very easily.
+   * Template literals
+   
+        * We can concatinate the number of strings together very easily.
 
 ```javascript
                 var name="Hanuman";
@@ -190,9 +192,10 @@
 ```
 
    * Destructuring
-            * We can define multiple variables at once.
-            * Can assign multiple values extracting from an array to different variables.
-            * Object destructuring
+   
+        * We can define multiple variables at once.
+        * Can assign multiple values extracting from an array to different variables.
+        * Object destructuring
     
 ```javascript
                 let options={
@@ -205,8 +208,9 @@
 
 
    * Rest && Spread (`...`)
-         * Rest is for assigning rest of the elements from an array
-         * Spread is for apreading the elements in the array.
+   
+        * Rest is for assigning rest of the elements from an array
+        * Spread is for apreading the elements in the array.
 
 
 * ReactJs &
