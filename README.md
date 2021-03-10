@@ -130,7 +130,8 @@
         * Shift(),unshift()
         * toString()
         * indexOf()
-    * Iteration statements
+        
+   * Iteration statements
         * For
         * While
         * Do-while
