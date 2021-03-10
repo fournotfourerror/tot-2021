@@ -138,7 +138,8 @@
         * for-in
         * for-of
         * map
-    * Functions
+        
+   * Functions
         * Static
         * Functions with parameters
         * Anonymous functions
